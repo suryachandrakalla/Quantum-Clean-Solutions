@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Clean",
+  "description": "24/7 automated Mega Store, AI Voice ordering, dynamic geo-connect dealer routing, and Super Admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
